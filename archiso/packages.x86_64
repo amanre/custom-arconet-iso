@@ -428,7 +428,6 @@ appstream-qt5
 downgrade
 font-manager
 #gitahead-bin
-grub-customizer 
 hardcode-fixer-git
 inxi
 mintstick-git
