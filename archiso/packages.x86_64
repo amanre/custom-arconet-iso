@@ -678,6 +678,7 @@ custom-xfce4
 grub-themes
 gtk-themes-git
 icon-themes-git
+catppuccin-icons
 multicolor-sddm-theme
 plank-themes-git
 root-git
@@ -701,3 +702,6 @@ zsh-theme-powerlevel10k-git
 ttf-meslo-nerd-font-powerlevel10k
 xscreensaver
 libreoffice-fresh
+timeshift
+timeshift-autosnap
+grub-btrfs
