@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="custom-arconet"
-iso_label="custom-arconet-v24.06.02"
+iso_label="custom-arconet-v24.06.01"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
 iso_version="v24.06.02"
