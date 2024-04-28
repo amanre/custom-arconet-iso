@@ -468,7 +468,7 @@ a-candy-beauty-icon-theme-git
 arcolinux-faces-git
 arcolinux-fonts-git
 arcolinux-geany-git
-#arcolinux-grub-theme-vimix-git
+arcolinux-grub-theme-vimix-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
 #arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
@@ -670,7 +670,7 @@ mountainsunset-xfce-theme
 grandcanion-xfce-theme
 headphones-xfce-theme
 pinkfloyed-xfce-theme
-
+flowers-xfce-theme
 # XFCE-THEME-MANAGER #
 xfce-theme-manager
 custom-xfce4
