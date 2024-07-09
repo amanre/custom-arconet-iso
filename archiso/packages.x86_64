@@ -124,7 +124,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+#virtualbox-guest-utils-nox
 vpnc
 #wezterm-terminfo
 wireless-regdb
@@ -177,7 +177,7 @@ nvidia-settings
 base-devel
 
 ###virtual box or vmware
-#virtualbox-guest-utils
+virtualbox-guest-utils
 
 ###packages for dual boot
 os-prober
@@ -304,7 +304,7 @@ ttf-ubuntu-font-family
 #adapta-gtk-theme
 #arc-gtk-theme
 #arc-darkest-theme-git
-kvantum-qt5-git
+kvantum-qt5
 #kvantum-qt6-git
 #openbox-arc-git
 
@@ -355,7 +355,7 @@ oh-my-zsh-git
 p7zip
 pkgfile
 #plank
-#playerctl
+playerctl
 polkit
 polkit-gnome
 #python2-dbus
@@ -434,7 +434,7 @@ mintstick-git
 neofetch
 #numix-gtk-theme-git
 octopi
-octopi-notifier-qt5
+#octopi-notifier-qt5
 paru-git
 python-pyparted
 python-pywal
@@ -478,9 +478,7 @@ arcolinux-grub-theme-vimix-git
 arcolinux-hblock-git
 #arcolinux-hyprland-profile-git
 #arcolinux-keyring
-#arcolinux-kvantum-git
-#arcolinux-kvantum-lxqt-git
-#arcolinux-kvantum-plasma-git
+arcolinux-kvantum-git
 arcolinux-local-applications-git
 arcolinux-local-applications-all-hide-git
 #arcolinux-local-applications-plasma-hide-git
@@ -593,6 +591,7 @@ xfce4-goodies
 ####                 ARCOLINUX APPS
 ###########################################################################
 
+archlinux-kernel-manager
 archlinux-logout-git
 archlinux-tweak-tool-git
 arcolinux-app-glade-git
